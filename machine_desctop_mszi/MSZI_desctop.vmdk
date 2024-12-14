@@ -1,0 +1,30 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1251"
+CID=fffffffe
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "MSZI_desctop-s001.vmdk"
+RW 8323072 SPARSE "MSZI_desctop-s002.vmdk"
+RW 8323072 SPARSE "MSZI_desctop-s003.vmdk"
+RW 8323072 SPARSE "MSZI_desctop-s004.vmdk"
+RW 8323072 SPARSE "MSZI_desctop-s005.vmdk"
+RW 8323072 SPARSE "MSZI_desctop-s006.vmdk"
+RW 8323072 SPARSE "MSZI_desctop-s007.vmdk"
+RW 8323072 SPARSE "MSZI_desctop-s008.vmdk"
+RW 8323072 SPARSE "MSZI_desctop-s009.vmdk"
+RW 8323072 SPARSE "MSZI_desctop-s010.vmdk"
+RW 655360 SPARSE "MSZI_desctop-s011.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "5221"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "96800852a0b05e97b4a5e90dfffffffe"
+ddb.uuid = "60 00 C2 94 74 b2 32 e3-e5 68 a5 40 c1 1f 71 ef"
+ddb.virtualHWVersion = "18"

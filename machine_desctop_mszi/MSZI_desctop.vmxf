@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 66 c3 dc 48 ee 12 e4-d5 2d f5 e5 38 f5 68 7e</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">MSZI_desctop.vmx</vmxPathName></VM></Foundry>

@@ -1,0 +1,23 @@
+.header {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.header__title {
+  font-size: 24px !important;
+  background: black !important;
+  line-height: 33px !important;
+  text-align: center !important;
+}
+
+.popover {
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2) !important;
+  border-radius: 10px !important;
+}
